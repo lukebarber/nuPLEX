@@ -19,4 +19,4 @@ nuPLEX is complatible with all of the following devices, though installation met
 - Roku 3 (4200)
 - Sky NowTV (1st Gen)
 
-Regretfully, nuPLEX is NOT compatible with the Roku SD (N1050) or the Roku DVP (N1000) - not will it ever be.
+Regretfully, nuPLEX is NOT compatible with the Roku SD (N1050) or the Roku DVP (N1000) - nor will it ever be.
