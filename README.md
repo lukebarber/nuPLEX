@@ -1,8 +1,8 @@
+UPDATE: Unfortunately due to licensing issues this projects development is on an indefinite hold. 
+
 What is nuPLEX?
 ===============
 nuPLEX is an application for Roku media streaming devices and the NowTV media streaming device. Built on the foundation of the original PLEX for Roku client, nuPLEX offers increased functionality and an entirely new user interface built from the ground up.
-
-UPDATE: Unfortunately due to licensing issues this projects development is on an indefinite hold. 
 
 Why a new user interface?
 ==============================
